@@ -31,5 +31,3 @@ karaliste <>\` **➙** Birini karaliste'ye ekler.
 durum <>\` **➙** Botun oynuyor kısmını ayarlar.
 eval <>\` **➙** Yazılan bir kodu çalıştırır.
 ekle <>\` **➙** Sisteme hediye kodu ekler.
-
-# gift
