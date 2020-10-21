@@ -1,12 +1,12 @@
 # Gift | Hediye Botu
 
----
 
 > **🔥️ Amaç:** `Bunu paylaşmadaki amacım bilmeyenlere bir fikir sahibi olmaları bilmediklerini bakmaları, Biliyorum bot basit bir bot ama mantığı gerçekten güzel sizinde görüp kullanmanızı istedim ve githubda paylaştım.`
+---
 > **👋️ Geliştirici** `Swôth#9990 & Roalia#0001`
+---
 > **🙏️ İsteğim** `Sizlerden tek istediğim sağ üsten bir star vermeniz ve kod sunucularında kendiniz yapmış gibi paylaşmamanız burada emek var direk github link ile gösterebilirsiniz herkese iyi kullanımlar dilerim ❤️`
 
----
 
 #### Usage / Kullanım
 
